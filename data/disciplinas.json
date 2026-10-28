@@ -1,0 +1,90 @@
+{
+  "matematica": {
+    "rotulo": "Matemática",
+    "pesos": {
+      "I": 2,
+      "C": 1
+    }
+  },
+  "fisica": {
+    "rotulo": "Física",
+    "pesos": {
+      "I": 2,
+      "R": 1
+    }
+  },
+  "quimica": {
+    "rotulo": "Química",
+    "pesos": {
+      "I": 2,
+      "H": 1
+    }
+  },
+  "biologia": {
+    "rotulo": "Biologia",
+    "pesos": {
+      "I": 1,
+      "H": 2
+    }
+  },
+  "historia": {
+    "rotulo": "História",
+    "pesos": {
+      "S": 1,
+      "A": 1,
+      "I": 1
+    }
+  },
+  "geografia": {
+    "rotulo": "Geografia",
+    "pesos": {
+      "I": 1,
+      "S": 1,
+      "R": 1
+    }
+  },
+  "portugues": {
+    "rotulo": "Português",
+    "pesos": {
+      "A": 2,
+      "S": 1
+    }
+  },
+  "ingles": {
+    "rotulo": "Inglês",
+    "pesos": {
+      "A": 1,
+      "S": 1,
+      "E": 1
+    }
+  },
+  "artes": {
+    "rotulo": "Artes",
+    "pesos": {
+      "A": 3
+    }
+  },
+  "educacao_fisica": {
+    "rotulo": "Educação Física",
+    "pesos": {
+      "R": 1,
+      "H": 1,
+      "S": 1
+    }
+  },
+  "filosofia_sociologia": {
+    "rotulo": "Filosofia/Sociologia",
+    "pesos": {
+      "S": 2,
+      "I": 1
+    }
+  },
+  "informatica": {
+    "rotulo": "Informática",
+    "pesos": {
+      "I": 1,
+      "R": 1,
+      "C": 1
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "pessoas": {
+    "pergunta": "Gosto de ensinar, ajudar ou conversar com pessoas",
+    "pesos": {
+      "S": 1
+    }
+  },
+  "numeros": {
+    "pergunta": "Gosto de trabalhar com números e dados",
+    "pesos": {
+      "I": 0.6,
+      "C": 0.6
+    }
+  },
+  "criar": {
+    "pergunta": "Gosto de criar, desenhar ou escrever",
+    "pesos": {
+      "A": 1
+    }
+  },
+  "maquinas": {
+    "pergunta": "Gosto de construir, consertar ou entender como as coisas funcionam",
+    "pesos": {
+      "R": 1
+    }
+  },
+  "programar": {
+    "pergunta": "Gosto de lógica e de programar",
+    "pesos": {
+      "I": 0.7,
+      "C": 0.3
+    }
+  },
+  "saude": {
+    "pergunta": "Me interesso por saúde e por cuidar de pessoas",
+    "pesos": {
+      "H": 1,
+      "S": 0.3
+    }
+  },
+  "liderar": {
+    "pergunta": "Gosto de liderar, negociar e convencer",
+    "pesos": {
+      "E": 1
+    }
+  },
+  "organizar": {
+    "pergunta": "Gosto de organizar, seguir rotinas e cuidar de detalhes",
+    "pesos": {
+      "C": 1
+    }
+  },
+  "pesquisar": {
+    "pergunta": "Gosto de pesquisar e investigar o porquê das coisas",
+    "pesos": {
+      "I": 1
+    }
+  },
+  "natureza": {
+    "pergunta": "Gosto de natureza, animais ou trabalhar ao ar livre",
+    "pesos": {
+      "R": 0.5,
+      "I": 0.4,
+      "H": 0.3
+    }
+  },
+  "empreender": {
+    "pergunta": "Prefiro ter meu próprio negócio a um emprego estável",
+    "pesos": {
+      "E": 1
+    }
+  }
+}

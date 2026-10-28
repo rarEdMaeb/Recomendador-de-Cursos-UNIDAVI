@@ -1,0 +1,446 @@
+{
+  "Administração": {
+    "area": "gestao",
+    "modalidades": [
+      "presencial",
+      "ead"
+    ],
+    "perfil": {
+      "E": 1,
+      "C": 0.7,
+      "S": 0.3
+    }
+  },
+  "Agronomia": {
+    "area": "agro",
+    "modalidades": [
+      "semipresencial"
+    ],
+    "perfil": {
+      "R": 0.8,
+      "I": 0.7,
+      "E": 0.3
+    }
+  },
+  "Arquitetura e Urbanismo": {
+    "area": "engenharia",
+    "modalidades": [
+      "presencial"
+    ],
+    "perfil": {
+      "A": 1,
+      "R": 0.6,
+      "I": 0.3
+    }
+  },
+  "Biomedicina": {
+    "area": "saude",
+    "modalidades": [
+      "presencial",
+      "semipresencial"
+    ],
+    "perfil": {
+      "I": 1,
+      "H": 0.8,
+      "R": 0.3
+    }
+  },
+  "Ciências Contábeis": {
+    "area": "gestao",
+    "modalidades": [
+      "presencial",
+      "ead"
+    ],
+    "perfil": {
+      "C": 1,
+      "I": 0.4,
+      "E": 0.2
+    }
+  },
+  "Ciências Econômicas": {
+    "area": "gestao",
+    "modalidades": [
+      "presencial"
+    ],
+    "perfil": {
+      "I": 0.8,
+      "C": 0.7,
+      "E": 0.5
+    }
+  },
+  "Comércio Exterior": {
+    "area": "gestao",
+    "modalidades": [
+      "ead"
+    ],
+    "perfil": {
+      "E": 0.8,
+      "C": 0.7,
+      "S": 0.3
+    }
+  },
+  "Direito": {
+    "area": "direito",
+    "modalidades": [
+      "presencial"
+    ],
+    "perfil": {
+      "S": 0.5,
+      "E": 0.6,
+      "C": 0.7,
+      "I": 0.3
+    }
+  },
+  "Educação Física (Bacharelado)": {
+    "area": "saude",
+    "modalidades": [
+      "presencial"
+    ],
+    "perfil": {
+      "H": 0.6,
+      "R": 0.7,
+      "S": 0.6
+    }
+  },
+  "Educação Física (Licenciatura)": {
+    "area": "educacao",
+    "modalidades": [
+      "semipresencial"
+    ],
+    "perfil": {
+      "S": 1,
+      "R": 0.6,
+      "C": 0.2
+    }
+  },
+  "Enfermagem": {
+    "area": "saude",
+    "modalidades": [
+      "presencial"
+    ],
+    "perfil": {
+      "H": 1,
+      "S": 0.7,
+      "C": 0.3
+    }
+  },
+  "Engenharia Civil": {
+    "area": "engenharia",
+    "modalidades": [
+      "presencial"
+    ],
+    "perfil": {
+      "R": 1,
+      "I": 0.6,
+      "E": 0.3,
+      "C": 0.3
+    }
+  },
+  "Engenharia de Produção": {
+    "area": "engenharia",
+    "modalidades": [
+      "presencial"
+    ],
+    "perfil": {
+      "R": 0.5,
+      "I": 0.6,
+      "E": 0.6,
+      "C": 0.7
+    }
+  },
+  "Engenharia Elétrica": {
+    "area": "engenharia",
+    "modalidades": [
+      "presencial"
+    ],
+    "perfil": {
+      "R": 0.8,
+      "I": 0.9,
+      "C": 0.2
+    }
+  },
+  "Engenharia Mecânica": {
+    "area": "engenharia",
+    "modalidades": [
+      "presencial"
+    ],
+    "perfil": {
+      "R": 1,
+      "I": 0.7
+    }
+  },
+  "Farmácia": {
+    "area": "saude",
+    "modalidades": [
+      "presencial"
+    ],
+    "perfil": {
+      "H": 0.8,
+      "I": 0.8,
+      "C": 0.3
+    }
+  },
+  "Fisioterapia": {
+    "area": "saude",
+    "modalidades": [
+      "presencial"
+    ],
+    "perfil": {
+      "H": 1,
+      "S": 0.5,
+      "R": 0.4
+    }
+  },
+  "Fonoaudiologia": {
+    "area": "saude",
+    "modalidades": [
+      "presencial"
+    ],
+    "perfil": {
+      "H": 1,
+      "S": 0.8,
+      "I": 0.3
+    }
+  },
+  "Gestão Comercial": {
+    "area": "gestao",
+    "modalidades": [
+      "ead"
+    ],
+    "perfil": {
+      "E": 1,
+      "S": 0.6,
+      "C": 0.4
+    }
+  },
+  "Gestão da Qualidade": {
+    "area": "gestao",
+    "modalidades": [
+      "ead"
+    ],
+    "perfil": {
+      "C": 1,
+      "I": 0.5,
+      "R": 0.5,
+      "E": 0.2
+    }
+  },
+  "Gestão de Cooperativas": {
+    "area": "gestao",
+    "modalidades": [
+      "ead"
+    ],
+    "perfil": {
+      "E": 0.7,
+      "S": 0.7,
+      "C": 0.6
+    }
+  },
+  "Gestão Financeira": {
+    "area": "gestao",
+    "modalidades": [
+      "ead"
+    ],
+    "perfil": {
+      "C": 1,
+      "I": 0.6,
+      "E": 0.5
+    }
+  },
+  "Logística": {
+    "area": "gestao",
+    "modalidades": [
+      "ead"
+    ],
+    "perfil": {
+      "C": 0.9,
+      "R": 0.5,
+      "E": 0.5
+    }
+  },
+  "Marketing": {
+    "area": "gestao",
+    "modalidades": [
+      "ead"
+    ],
+    "perfil": {
+      "E": 0.9,
+      "A": 0.6,
+      "S": 0.5
+    }
+  },
+  "Medicina": {
+    "area": "saude",
+    "modalidades": [
+      "presencial"
+    ],
+    "perfil": {
+      "I": 0.8,
+      "H": 1,
+      "S": 0.5
+    }
+  },
+  "Medicina Veterinária": {
+    "area": "saude",
+    "modalidades": [
+      "presencial"
+    ],
+    "perfil": {
+      "H": 0.8,
+      "R": 0.6,
+      "I": 0.6
+    }
+  },
+  "Nutrição": {
+    "area": "saude",
+    "modalidades": [
+      "presencial"
+    ],
+    "perfil": {
+      "H": 1,
+      "I": 0.6,
+      "S": 0.4
+    }
+  },
+  "Pedagogia": {
+    "area": "educacao",
+    "modalidades": [
+      "presencial",
+      "semipresencial"
+    ],
+    "perfil": {
+      "S": 1,
+      "A": 0.3,
+      "C": 0.3
+    }
+  },
+  "Processos Gerenciais": {
+    "area": "gestao",
+    "modalidades": [
+      "ead"
+    ],
+    "perfil": {
+      "C": 0.9,
+      "E": 0.7,
+      "S": 0.3
+    }
+  },
+  "Produção Multimídia": {
+    "area": "artes",
+    "modalidades": [
+      "presencial"
+    ],
+    "perfil": {
+      "A": 1,
+      "R": 0.5,
+      "I": 0.2
+    }
+  },
+  "Psicologia": {
+    "area": "saude",
+    "modalidades": [
+      "presencial"
+    ],
+    "perfil": {
+      "S": 1,
+      "I": 0.7,
+      "H": 0.4
+    }
+  },
+  "Recursos Humanos": {
+    "area": "gestao",
+    "modalidades": [
+      "ead"
+    ],
+    "perfil": {
+      "S": 1,
+      "C": 0.7,
+      "E": 0.5
+    }
+  },
+  "Sistemas de Informação": {
+    "area": "tecnologia",
+    "modalidades": [
+      "presencial"
+    ],
+    "perfil": {
+      "I": 0.7,
+      "C": 0.7,
+      "E": 0.4
+    }
+  },
+  "Terapia Ocupacional": {
+    "area": "saude",
+    "modalidades": [
+      "presencial"
+    ],
+    "perfil": {
+      "H": 1,
+      "S": 0.9,
+      "A": 0.3
+    }
+  },
+  "Biologia": {
+    "area": "saude",
+    "modalidades": [],
+    "perfil": {
+      "I": 1,
+      "H": 0.5,
+      "R": 0.4
+    }
+  },
+  "Ciência da Computação": {
+    "area": "tecnologia",
+    "modalidades": [],
+    "perfil": {
+      "I": 1,
+      "R": 0.4,
+      "C": 0.4
+    }
+  },
+  "Design": {
+    "area": "artes",
+    "modalidades": [],
+    "perfil": {
+      "A": 1,
+      "E": 0.3,
+      "R": 0.2
+    }
+  },
+  "História": {
+    "area": "educacao",
+    "modalidades": [],
+    "perfil": {
+      "I": 0.7,
+      "S": 0.6,
+      "A": 0.4
+    }
+  },
+  "Letras": {
+    "area": "educacao",
+    "modalidades": [],
+    "perfil": {
+      "A": 1,
+      "S": 0.5,
+      "I": 0.3
+    }
+  },
+  "Odontologia": {
+    "area": "saude",
+    "modalidades": [],
+    "perfil": {
+      "H": 1,
+      "R": 0.6,
+      "I": 0.4
+    }
+  },
+  "Publicidade e Propaganda": {
+    "area": "artes",
+    "modalidades": [],
+    "perfil": {
+      "A": 0.8,
+      "E": 0.7,
+      "S": 0.4
+    }
+  }
+}

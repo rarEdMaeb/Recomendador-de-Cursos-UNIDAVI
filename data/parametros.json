@@ -1,0 +1,27 @@
+{
+  "dimensoes": {
+    "R": "perfil prático/técnico",
+    "I": "perfil investigativo",
+    "A": "perfil criativo",
+    "S": "perfil social",
+    "E": "perfil empreendedor",
+    "C": "gosto por organização",
+    "H": "interesse em saúde/cuidado"
+  },
+  "areas": {
+    "saude": "Saúde",
+    "engenharia": "Engenharia e construção",
+    "tecnologia": "Tecnologia",
+    "gestao": "Gestão e negócios",
+    "educacao": "Educação e humanas",
+    "direito": "Direito",
+    "artes": "Arte e comunicação",
+    "agro": "Agro e meio ambiente"
+  },
+  "fator_favorita": 1.5,
+  "fator_menos_gosta": 0.75,
+  "penalidade_estudo_longo": 0.85,
+  "cursos_estudo_longo": [
+    "Medicina"
+  ]
+}

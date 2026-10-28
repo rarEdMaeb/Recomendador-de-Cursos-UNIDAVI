@@ -1,0 +1,423 @@
+[
+  {
+    "nome": "criativo",
+    "resposta": {
+      "idade": 17,
+      "disciplina_favorita": "artes",
+      "disciplina_menos_gosta": "fisica",
+      "atividades": {
+        "pessoas": 3,
+        "numeros": 1,
+        "criar": 5,
+        "maquinas": 2,
+        "programar": 1,
+        "saude": 1,
+        "liderar": 3,
+        "organizar": 2,
+        "pesquisar": 2,
+        "natureza": 2,
+        "empreender": 3
+      }
+    },
+    "opcoes": {},
+    "esperado": [
+      {
+        "curso": "Marketing",
+        "afinidade": 0.84,
+        "motivos": [
+          "perfil criativo",
+          "perfil empreendedor"
+        ],
+        "modalidades": [
+          "ead"
+        ]
+      },
+      {
+        "curso": "Produção Multimídia",
+        "afinidade": 0.8064,
+        "motivos": [
+          "perfil criativo",
+          "perfil prático/técnico"
+        ],
+        "modalidades": [
+          "presencial"
+        ]
+      },
+      {
+        "curso": "Arquitetura e Urbanismo",
+        "afinidade": 0.767,
+        "motivos": [
+          "perfil criativo",
+          "perfil prático/técnico"
+        ],
+        "modalidades": [
+          "presencial"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "saude",
+    "resposta": {
+      "idade": 18,
+      "disciplina_favorita": "biologia",
+      "disciplina_menos_gosta": "matematica",
+      "atividades": {
+        "pessoas": 5,
+        "numeros": 2,
+        "criar": 2,
+        "maquinas": 1,
+        "programar": 1,
+        "saude": 5,
+        "liderar": 2,
+        "organizar": 3,
+        "pesquisar": 3,
+        "natureza": 2,
+        "empreender": 1
+      }
+    },
+    "opcoes": {},
+    "esperado": [
+      {
+        "curso": "Fonoaudiologia",
+        "afinidade": 0.9641,
+        "motivos": [
+          "interesse em saúde/cuidado",
+          "perfil social"
+        ],
+        "modalidades": [
+          "presencial"
+        ]
+      },
+      {
+        "curso": "Enfermagem",
+        "afinidade": 0.9382,
+        "motivos": [
+          "interesse em saúde/cuidado",
+          "perfil social"
+        ],
+        "modalidades": [
+          "presencial"
+        ]
+      },
+      {
+        "curso": "Nutrição",
+        "afinidade": 0.9304,
+        "motivos": [
+          "interesse em saúde/cuidado",
+          "perfil social"
+        ],
+        "modalidades": [
+          "presencial"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "tecnico",
+    "resposta": {
+      "idade": 17,
+      "disciplina_favorita": "informatica",
+      "disciplina_menos_gosta": "portugues",
+      "atividades": {
+        "pessoas": 2,
+        "numeros": 4,
+        "criar": 2,
+        "maquinas": 3,
+        "programar": 5,
+        "saude": 1,
+        "liderar": 2,
+        "organizar": 3,
+        "pesquisar": 4,
+        "natureza": 1,
+        "empreender": 3
+      }
+    },
+    "opcoes": {},
+    "esperado": [
+      {
+        "curso": "Sistemas de Informação",
+        "afinidade": 0.9383,
+        "motivos": [
+          "perfil investigativo",
+          "gosto por organização"
+        ],
+        "modalidades": [
+          "presencial"
+        ]
+      },
+      {
+        "curso": "Ciências Econômicas",
+        "afinidade": 0.9379,
+        "motivos": [
+          "perfil investigativo",
+          "gosto por organização"
+        ],
+        "modalidades": [
+          "presencial"
+        ]
+      },
+      {
+        "curso": "Engenharia de Produção",
+        "afinidade": 0.9276,
+        "motivos": [
+          "perfil investigativo",
+          "gosto por organização"
+        ],
+        "modalidades": [
+          "presencial"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "negocios",
+    "resposta": {
+      "idade": 19,
+      "disciplina_favorita": "matematica",
+      "disciplina_menos_gosta": "artes",
+      "atividades": {
+        "pessoas": 3,
+        "numeros": 4,
+        "criar": 1,
+        "maquinas": 1,
+        "programar": 2,
+        "saude": 1,
+        "liderar": 5,
+        "organizar": 4,
+        "pesquisar": 2,
+        "natureza": 1,
+        "empreender": 5
+      }
+    },
+    "opcoes": {},
+    "esperado": [
+      {
+        "curso": "Ciências Econômicas",
+        "afinidade": 0.9486,
+        "motivos": [
+          "perfil investigativo",
+          "gosto por organização"
+        ],
+        "modalidades": [
+          "presencial"
+        ]
+      },
+      {
+        "curso": "Sistemas de Informação",
+        "afinidade": 0.9342,
+        "motivos": [
+          "gosto por organização",
+          "perfil investigativo"
+        ],
+        "modalidades": [
+          "presencial"
+        ]
+      },
+      {
+        "curso": "Gestão Financeira",
+        "afinidade": 0.9214,
+        "motivos": [
+          "gosto por organização",
+          "perfil empreendedor"
+        ],
+        "modalidades": [
+          "ead"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "saude_sem_estudo_longo",
+    "resposta": {
+      "idade": 18,
+      "disciplina_favorita": "biologia",
+      "disciplina_menos_gosta": "matematica",
+      "atividades": {
+        "pessoas": 5,
+        "numeros": 2,
+        "criar": 2,
+        "maquinas": 1,
+        "programar": 1,
+        "saude": 5,
+        "liderar": 2,
+        "organizar": 3,
+        "pesquisar": 3,
+        "natureza": 2,
+        "empreender": 1
+      }
+    },
+    "opcoes": {
+      "aceita_estudo_longo": false
+    },
+    "esperado": [
+      {
+        "curso": "Fonoaudiologia",
+        "afinidade": 0.9641,
+        "motivos": [
+          "interesse em saúde/cuidado",
+          "perfil social"
+        ],
+        "modalidades": [
+          "presencial"
+        ]
+      },
+      {
+        "curso": "Enfermagem",
+        "afinidade": 0.9382,
+        "motivos": [
+          "interesse em saúde/cuidado",
+          "perfil social"
+        ],
+        "modalidades": [
+          "presencial"
+        ]
+      },
+      {
+        "curso": "Nutrição",
+        "afinidade": 0.9304,
+        "motivos": [
+          "interesse em saúde/cuidado",
+          "perfil social"
+        ],
+        "modalidades": [
+          "presencial"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "criativo_com_nao_ofertados",
+    "resposta": {
+      "idade": 17,
+      "disciplina_favorita": "artes",
+      "disciplina_menos_gosta": "fisica",
+      "atividades": {
+        "pessoas": 3,
+        "numeros": 1,
+        "criar": 5,
+        "maquinas": 2,
+        "programar": 1,
+        "saude": 1,
+        "liderar": 3,
+        "organizar": 2,
+        "pesquisar": 2,
+        "natureza": 2,
+        "empreender": 3
+      }
+    },
+    "opcoes": {
+      "apenas_ofertados": false
+    },
+    "esperado": [
+      {
+        "curso": "Design",
+        "afinidade": 0.9562,
+        "motivos": [
+          "perfil criativo",
+          "perfil empreendedor"
+        ],
+        "modalidades": []
+      },
+      {
+        "curso": "Publicidade e Propaganda",
+        "afinidade": 0.9449,
+        "motivos": [
+          "perfil criativo",
+          "perfil empreendedor"
+        ],
+        "modalidades": []
+      },
+      {
+        "curso": "Letras",
+        "afinidade": 0.8469,
+        "motivos": [
+          "perfil criativo",
+          "perfil social"
+        ],
+        "modalidades": []
+      }
+    ]
+  },
+  {
+    "nome": "negocios_top5",
+    "resposta": {
+      "idade": 19,
+      "disciplina_favorita": "matematica",
+      "disciplina_menos_gosta": "artes",
+      "atividades": {
+        "pessoas": 3,
+        "numeros": 4,
+        "criar": 1,
+        "maquinas": 1,
+        "programar": 2,
+        "saude": 1,
+        "liderar": 5,
+        "organizar": 4,
+        "pesquisar": 2,
+        "natureza": 1,
+        "empreender": 5
+      }
+    },
+    "opcoes": {
+      "top": 5
+    },
+    "esperado": [
+      {
+        "curso": "Ciências Econômicas",
+        "afinidade": 0.9486,
+        "motivos": [
+          "perfil investigativo",
+          "gosto por organização"
+        ],
+        "modalidades": [
+          "presencial"
+        ]
+      },
+      {
+        "curso": "Sistemas de Informação",
+        "afinidade": 0.9342,
+        "motivos": [
+          "gosto por organização",
+          "perfil investigativo"
+        ],
+        "modalidades": [
+          "presencial"
+        ]
+      },
+      {
+        "curso": "Gestão Financeira",
+        "afinidade": 0.9214,
+        "motivos": [
+          "gosto por organização",
+          "perfil empreendedor"
+        ],
+        "modalidades": [
+          "ead"
+        ]
+      },
+      {
+        "curso": "Direito",
+        "afinidade": 0.9143,
+        "motivos": [
+          "perfil empreendedor",
+          "gosto por organização"
+        ],
+        "modalidades": [
+          "presencial"
+        ]
+      },
+      {
+        "curso": "Engenharia de Produção",
+        "afinidade": 0.8889,
+        "motivos": [
+          "perfil empreendedor",
+          "gosto por organização"
+        ],
+        "modalidades": [
+          "presencial"
+        ]
+      }
+    ]
+  }
+]
